@@ -5,7 +5,7 @@ Tool to obtain information and statistics about files inside a directory.
 
    fcano@debian:~/tools/forensic-stats$ python forensic-stats.py testdir/ 
 
-Statistic information about all files in statistics.txt
+Statistic information about all files in output file statistics.txt
 -------------------------------------------------------
     Generic Statistics
     ==================
